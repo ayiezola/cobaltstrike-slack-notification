@@ -1,4 +1,5 @@
 # cobaltstrike-slack-notification
 Sending notification to slack once beacon connected
 
-<img width="544" alt="slack-cs-noti" src="https://github.com/ayiezola/cobaltstrike-slack-notification/assets/14173595/904dbc07-cccc-40af-ad12-31d02084fec0">
+<img width="554" alt="slack-cs-noti01" src="https://github.com/ayiezola/cobaltstrike-slack-notification/assets/14173595/94bb117a-3a07-4ad3-9469-b2fda0c81b08">
+
