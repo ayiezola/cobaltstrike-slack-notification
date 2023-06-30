@@ -19,7 +19,7 @@ hostname = socket.gethostname()
 
 args = parser.parse_args()
 
-slackUrl = "https://hooks.slack.com/services/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"  # Your Slack webhook URL
+slackUrl = "https://hooks.slack.com/services/XXX"  # Your Slack webhook URL
 computername = args.computername
 internalip = args.internalip
 externalip = args.externalip
